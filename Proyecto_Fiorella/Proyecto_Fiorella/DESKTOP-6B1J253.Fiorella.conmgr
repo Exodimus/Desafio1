@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-6B1J253.Fiorella"
+  DTS:DTSID="{4B48ED1E-4754-466B-9D1F-4156F880FE2B}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-6B1J253;Initial Catalog=Fiorella;Integrated Security=True;Application Name=SSIS-Proyecto_Fiorella-{4B48ED1E-4754-466B-9D1F-4156F880FE2B}DESKTOP-6B1J253.Fiorella;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
